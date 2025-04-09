@@ -1,10 +1,10 @@
-# Avneet Kaur's E-Portfolio
+#Alfonso Olavarria E-Portfolio
 
-Hello Everyonne,
+Hola a todos,
 
-Welcome to my own portfolio's code repository. In this e-portfolio, I have used template by I-Portfolio.
+Bienvenidos a mi portadfolio.
 
-Check out the live version here - [My Portfolio](https://avi-k-dua.github.io/)
+Check out the live version here - [My Portfolio]()
 
-Get Connected: [LinkedIn](https://www.linkedin.com/in/avneet-kaur-dua/)
+Get Connected: [LinkedIn]()
 
