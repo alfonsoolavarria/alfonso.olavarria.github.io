@@ -2,7 +2,7 @@
 
 Hola a todos,
 
-Bienvenidos a mi portadfolio.
+Bienvenidos a mi portafolio.
 
 Check out the live version here - [My Portfolio]()
 
